@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/enzoadmolina.github.io/static/css/main.a3195607.css",
+    "main.js": "/enzoadmolina.github.io/static/js/main.7d325a55.js",
+    "static/js/453.fa51ebca.chunk.js": "/enzoadmolina.github.io/static/js/453.fa51ebca.chunk.js",
+    "static/media/15484549-hd_1920_1080_30fps.mp4": "/enzoadmolina.github.io/static/media/15484549-hd_1920_1080_30fps.481299e079265094baf7.mp4",
+    "static/media/bola-disc.mp4": "/enzoadmolina.github.io/static/media/bola-disc.ee03b82ea8a8466a9870.mp4",
+    "static/media/Captura de pantalla 2024-07-08 202734.png": "/enzoadmolina.github.io/static/media/Captura de pantalla 2024-07-08 202734.ee1f920cfce903863116.png",
+    "static/media/frame-6775244_1280.png": "/enzoadmolina.github.io/static/media/frame-6775244_1280.48e76b09b3a4d2a29926.png",
+    "index.html": "/enzoadmolina.github.io/index.html",
+    "main.a3195607.css.map": "/enzoadmolina.github.io/static/css/main.a3195607.css.map",
+    "main.7d325a55.js.map": "/enzoadmolina.github.io/static/js/main.7d325a55.js.map",
+    "453.fa51ebca.chunk.js.map": "/enzoadmolina.github.io/static/js/453.fa51ebca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3195607.css",
+    "static/js/main.7d325a55.js"
+  ]
+}
